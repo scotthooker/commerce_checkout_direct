@@ -1,0 +1,5 @@
+name: Commerce Checkout Direct
+type: module
+description: Provides an order type that goes straight to checkout.
+core: 8.x
+package: Commerce (Contrib)

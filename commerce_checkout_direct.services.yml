@@ -1,0 +1,6 @@
+services:
+  commerce_checkout_direct.cart_event_subscriber:
+    class: \Drupal\commerce_checkout_direct\EventSubscriber\CommerceEventSubscriber
+    arguments: ['@entity_type.manager']
+    tags:
+      - { name: event_subscriber }

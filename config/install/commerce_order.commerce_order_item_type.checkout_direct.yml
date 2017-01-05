@@ -1,0 +1,7 @@
+langcode: en
+status: true
+dependencies: {  }
+label: 'Checkout Direct'
+id: checkout_direct
+purchasableEntityType: commerce_product_variation
+orderType: checkout_direct
