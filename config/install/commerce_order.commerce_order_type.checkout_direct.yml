@@ -1,7 +1,7 @@
 langcode: en
 status: true
-label: Default
-id: default
+label: Checkout Direct
+id: checkout_direct
 workflow: order_default
 refresh_mode: customer
 refresh_frequency: 300
